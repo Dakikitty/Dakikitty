@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando como CTO (Chief Technology Officer) de uma empresa.
 - 🌱 Ainda estou começando a estudar diversar linguagende programação 
-- 
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dakikitty&show_icons=true&theme=radical)
 
