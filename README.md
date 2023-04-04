@@ -1,7 +1,12 @@
+<div align="center">
 ### Olá eu sou a Kitty Mari (Daki)
+<div align="center">
+<div align="center">
 
-- 🔭 Atualmente estou trabalhando como CTO (Chief Technology Officer) de uma empresa.
-- 🌱 Ainda estou começando a estudar diversar linguagende programação 
+🔭 Atualmente estou trabalhando como CTO (Chief Technology Officer) de uma empresa.
+
+  🌱 Ainda estou começando a estudar diversar linguagende programação 
+<div align="center">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dakikitty&show_icons=true&theme=radical)
