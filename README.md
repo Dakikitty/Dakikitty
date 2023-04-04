@@ -1,6 +1,6 @@
 ### Olá eu sou a Kitty Mari (Daki)
 
-- 🔭 Atualmente estou trabalhando como CTO (Chief Technology Officer)
+- 🔭 Atualmente estou trabalhando como CTO (Chief Technology Officer) na minha empresa
 - 🌱 estou estudando diversar linguagende programação
 - 😄 Pronomes
 
