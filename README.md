@@ -27,3 +27,5 @@
   <a href="https://www.reddit.com/user/East_Squash6119" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a> 
 <a href="https://open.spotify.com/user/tp6ptihezxtrbunn9xd2ldgot?si=357298ed7d0740c8" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
 </div>
+![Snake animation](https.//github.com/Dakikitty/Dakikitty/blob/output/github-contribution-grid-snake.svg)
+</div>
