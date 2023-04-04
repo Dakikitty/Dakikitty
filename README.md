@@ -1,8 +1,8 @@
 ### Olá eu sou a Kitty Mari (Daki)
 
 - 🔭 Atualmente estou trabalhando como CTO (Chief Technology Officer) de uma empresa.
-- 🌱 estou estudando diversar linguagende programação
-- 😄 Pronomes
+- 🌱 Ainda estou começando a estudar diversar linguagende programação 
+- 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dakikitty&show_icons=true&theme=radical)
 
