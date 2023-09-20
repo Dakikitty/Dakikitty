@@ -3,7 +3,7 @@
 <div align="center">
 <div align="center">
 
-🔭 Atualmente estou trabalhando como CTO (Chief Technology Officer) de uma empresa.
+🔭 
 
   🌱 Ainda estou começando a estudar diversar linguagende programação 
 <div align="center">
