@@ -74,7 +74,7 @@
 
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
-<h4> 
+<h4> <div align="left">
  🌱 Atualmente estou trabalhando e desenvolvendo minhas habilidades de programação.</br> <div align="left">
  🔭 Interesse em Inteligência Artificial, Machine Learning, Data Science, Automação, desenvolvimento BlockChain,</br> <div align="left">
  ✨ Eu só gosto de perfeição.</h4> <div align="left"> 
