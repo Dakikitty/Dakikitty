@@ -76,7 +76,8 @@
 <div align="left">-->
 <h4> <div align="left">
  🌱 Atualmente estou trabalhando e desenvolvendo minhas habilidades de programação.</br> <div align="left">
- 🔭 Interesse em Inteligência Artificial, Machine Learning, Data Science, Automação, desenvolvimento BlockChain,</br> <div align="left">
+ 🔭 Interesse em Inteligência Artificial, Machine Learning, Data Science, Automação, desenvolvimento BlockChain, Desenvolvimento Blockchain para Web, Automação para Web, Web 
+ Design, Front-end Development.</br> <div align="left">
  ✨ Eu só gosto de perfeição.</h4> <div align="left"> 
 
 
