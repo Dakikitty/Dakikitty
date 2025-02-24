@@ -76,8 +76,9 @@
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 <h4> 
-  🌱 Atualmente estou trabalhando e desenvolvendo minhas habilidades de programação.</br>
- 🔭 Interesse em Inteligência Artificial, Machine Learning, Data Science, Automação, desenvolvimento BlockChain, Desenvolvimento Blockchain para Web, Automação para Web, Web Design, Front-end Development. </br>
+ 🌱 Atualmente estou trabalhando e desenvolvendo minhas habilidades de programação.</br>
+ 🔭 Interesse em Inteligência Artificial, Machine Learning, Data Science, Automação, desenvolvimento BlockChain, Desenvolvimento Blockchain para Web, Automação para Web, Web 
+ Design, Front-end Development.</br>
  ✨ Eu só gosto de perfeição.</h4> <div align="left"> 
 
 
