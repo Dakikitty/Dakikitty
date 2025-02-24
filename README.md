@@ -89,6 +89,12 @@
   <img src="https://img.shields.io/badge/YouTube-BF616A?style=for-the-badge&logo=youtube&logoColor=ECEFF4" alt="YouTube Badge"></a>
     <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Bashfolio-505050?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=505050" alt="Portfolio Badge"></a>
+<a href="https://www.instagram.com/_k1tty_.mari/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/wedakizinha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dakari-kitamera-uzukima-0aa347271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.reddit.com/user/East_Squash6119" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a> 
+<a href="https://open.spotify.com/user/tp6ptihezxtrbunn9xd2ldgot?si=357298ed7d0740c8" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+</div>
 
 
   
