@@ -78,7 +78,8 @@
   🌱 Atualmente estou trabalhando e desenvolvendo minhas habilidades de programação.</br>
  🔭 Interesse em Inteligência Artificial, Machine Learning, Data Science, Automação, desenvolvimento BlockChain, Desenvolvimento Blockchain para Web, Automação para Web, Web 
  Design, Front-end Development.</br>
- 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python.</br>
+ 💬  Voltado para designer me interesso por Desenvolvimento Blockchain para Web, Automação para Web, Web 
+ Design, Front-end Development e Digner de Marcar.</br>
  ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
  ✨ Eu só gosto de perfeição.</h4> <div align="left"> 
    
@@ -86,8 +87,7 @@
 <div align="left">-->
 <h4> 
   🌱 Atualmente estou trabalhando e desenvolvendo minhas habilidades de programação.</br>
- 🔭 Interesse em Inteligência Artificial, Machine Learning, Data Science, Automação, desenvolvimento BlockChain, Desenvolvimento Blockchain para Web, Automação para Web, Web 
- Design, Front-end Development.</br>
+ 🔭 Interesse em Inteligência Artificial, Machine Learning, Data Science, Automação, desenvolvimento BlockChain,</br>
  ✨ Eu só gosto de perfeição.</h4> <div align="left"> 
 
 
