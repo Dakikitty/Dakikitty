@@ -76,11 +76,9 @@
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 <h4> 
-  🌱 I am currently working on and developing my programming skills.</br>
- 🔭 I worked on .Net Framework and Hands on experience in Full Stack.</br>
- 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python.</br>
- ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
- ✨ I only like perfection.</h4> <div align="left"> 
+  🌱 Atualmente estou trabalhando e desenvolvendo minhas habilidades de programação.</br>
+ 🔭 Interesse em Inteligência Artificial, Machine Learning, Data Science, Automação, desenvolvimento BlockChain, Desenvolvimento Blockchain para Web, Automação para Web, Web Design, Front-end Development. </br>
+ ✨ Eu só gosto de perfeição. align="left"> 
 
 
   
