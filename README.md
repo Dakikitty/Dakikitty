@@ -57,20 +57,6 @@
 </p>
 -->
 
-
-
-<!-- MasterHead -->
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
-</a>
-
-
-
-<!--<h1 align="left">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
-
-
-<!-- Greeting -->
 </h1>
 <h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
 
@@ -78,7 +64,7 @@
 
 
  <div align="center">
-<a href="https://github.com/JoshuaThadi">
+<a href="https://github.com/dakikitty">
   <img width="162px" 
        src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=318CE7&style=for-the-badge" 
        alt="Profile views" /></a>
