@@ -77,9 +77,9 @@
 <h4> 
   🌱 Atualmente estou trabalhando e desenvolvendo minhas habilidades de programação.</br>
  🔭 Interesse em Inteligência Artificial, Machine Learning, Data Science, Automação, desenvolvimento BlockChain, Desenvolvimento Blockchain para Web, Automação para Web, Web 
- Design, Front-end Development.</br>
+ Design, Front-end Development.</br> <div align="left"> 
  💬  Voltado para designer me interesso por Desenvolvimento Blockchain para Web, Automação para Web, Web 
- Design, Front-end Development e Digner de Marcar.</br>
+ Design, Front-end Development e Digner de Marcar.</br><div align="left"> 
  ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
  ✨ Eu só gosto de perfeição.</h4> <div align="left"> 
    
