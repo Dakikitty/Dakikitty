@@ -65,7 +65,7 @@
 
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW84cDJ5NHZnY25kZXJ5Z2Qxb3Z5OTcybHI2OW53Y3BzYWQ5ZGI0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XtINMCqoEJrNAzBh0v/giphy.gif">
+<img align="right" alt="coding-gif" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW84cDJ5NHZnY25kZXJ5Z2Qxb3Z5OTcybHI2OW53Y3BzYWQ5ZGI0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XtINMCqoEJrNAzBh0v/giphy.gif">
 
 
 <!-- about me -->
