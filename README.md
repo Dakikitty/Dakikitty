@@ -83,7 +83,6 @@
 <br>
 <div align="center">
 <img width="380" src="https://github-readme-stats.vercel.app/api?username=Dakikitty&show_icons=true&theme=radical"/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dakikitty&show_icons=true&theme=radical)
  <!-- <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
