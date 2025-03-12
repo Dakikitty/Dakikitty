@@ -84,7 +84,9 @@
 <h3 align="center">⚡ Github Status</h3>
 <br>
 <div align="center">
-<img width="380" src="https://github-readme-stats.vercel.app/api?username=Dakikitty&show_icons=true&theme=radical"/>
+<img width="380" src="https://github-readme-stats.vercel.app/api?username=Dakikitty&show_icons=true&rank_icon=github&theme=blue_navy"/>
+<img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakikitty&layout=compact&theme=blue_navy"/>
+
  <!-- <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
@@ -96,10 +98,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,arduino,nextjs,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,javascript,python,raspberrypi,arduino" /><br>
 </div>
 
 <br/>
