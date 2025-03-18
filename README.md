@@ -102,3 +102,4 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW84cDJ5NHZnY25kZXJ5Z2Qxb
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
+![snake gif](https://github.com/Dakikitty/Dakikitty/blob/output/github-snake-dark.svg)
