@@ -53,7 +53,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW84cDJ5NHZnY25kZXJ5Z2Qxb
 <a href="https://open.spotify.com/user/tp6ptihezxtrbunn9xd2ldgot?si=357298ed7d0740c8" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
 </div>
 </div></h4>
-<!--
+
 <br/><br/>
 <h3 align="center">⚡ Github Status</h3>
 <br>
@@ -63,7 +63,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW84cDJ5NHZnY25kZXJ5Z2Qxb
 
 
 <!-- LINGUAGENS--> 
-<!--<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
+<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
 
 <br/>
 
@@ -94,12 +94,11 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW84cDJ5NHZnY25kZXJ5Z2Qxb
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />-->
-<!--  </div>
-  <div align="center"> -->
+</div>
+  <div align="center"> 
 
 
+![snake gif](https://github.com/Dakikitty/Dakikitty/blob/output/github-snake-dark.svg)
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
-
-![snake gif](https://github.com/Dakikitty/Dakikitty/blob/output/github-snake-dark.svg)
