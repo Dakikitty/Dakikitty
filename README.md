@@ -27,6 +27,7 @@
 <h4 align="left">🌟Eu trabalho em desenvolvimento front-end, web design e designer grafico quando estou entediada. Estou me formando em analise e desenvolvimento de sistemass e atualmente estou aprimorando minhas habilidades de programação, explorando também a área de TI para adquirir imenso conhecimento.</h4>
 
 
+
     
 <!--👀DESENHO OU GIF FOFO, TEM QUE SER FOFO -->
 <img align="right" alt="coding-gif" width="200" src="https://cdn.picrew.me/shareImg/org/202503/606067_R7QNQC9M.png">
@@ -44,6 +45,8 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW84cDJ5NHZnY25kZXJ5Z2Qxb
  Design, Front-end Development.</br> <div align="left">
  ✨ Eu só gosto de perfeição.</h4> <div align="left"> 
 
+ >**Carl Sagan: "Em algum lugar, alguma coisa incrível está esperando para ser descoberta.**
+>
 <!-- REDES SOCIAIS -->
 
 <a href="https://www.instagram.com/_k1tty_.mari/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -102,3 +105,4 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW84cDJ5NHZnY25kZXJ5Z2Qxb
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+
