@@ -5,7 +5,7 @@
 
 <!-- SOBRE VC! -->
 
-<h4 align="left">🌟Eu trabalho em desenvolvimento front-end, web design e designer grafico quando estou entediada. Estou me formando em analise e desenvolvimento de sistemass e atualmente estou aprimorando minhas habilidades de programação, explorando também a área de TI para adquirir imenso conhecimento.</h4>
+<h4 align="left">🌟Eu trabalho em desenvolvimento front-end, web design e designer grafico. Estou me formando em analise e desenvolvimento de sistemass e atualmente estou aprimorando minhas habilidades de programação, explorando também a área de TI para adquirir imenso conhecimento.</h4>
 
 
 
