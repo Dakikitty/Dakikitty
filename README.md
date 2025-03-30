@@ -31,7 +31,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW84cDJ5NHZnY25kZXJ5Z2Qxb
 >
 <!-- REDES SOCIAIS -->
 
-<a href="https://www.instagram.com/_k1tty_.mari/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="[https://www.instagram.com/_k1tty_.mari/](https://www.instagram.com/maimai.aiwe/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/wedakizinha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dakari-kitamera-uzukima-0aa347271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.reddit.com/user/East_Squash6119" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a> 
