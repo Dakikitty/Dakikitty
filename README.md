@@ -1,24 +1,3 @@
-
-<!--
-<div align="center">
-  <a href="#">
-    <img 
-      width="100%" 
-      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
-    />
-  </a>
-  <br>
--->
-
-<!--
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
-    width="100%" 
-  />
-</p>
--->
-
 </h1>
 <h1 align="center">Olá eu sou a Kitty Mari (Daki)</h1>
 
@@ -74,7 +53,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW84cDJ5NHZnY25kZXJ5Z2Qxb
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma" /><br>
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,javascript,python,raspberrypi,arduino" /><br>
 </div>
-
+<!--**AQUI VC PODE ADICIOR DEPOIS DA VIRGULA UMA LINGUAGEM QUE APARECE**-->
 <br/>
 </div>
 
@@ -106,3 +85,10 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW84cDJ5NHZnY25kZXJ5Z2Qxb
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
+
+
+
+
+<!-- Links importantes 
+https://dev.to/envoy_/150-badges-for-github-pnk PARA OS BOTOES DE REDES SOCIAIS
+https://github.com/anuraghazra/github-readme-stats ESSE VC VAI CONSEGUIR OS CONTADORES DE STATUS-->
