@@ -25,6 +25,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW84cDJ5NHZnY25kZXJ5Z2Qxb
  🔭 Interesse em Inteligência Artificial, Machine Learning, Data Science, Automação, desenvolvimento BlockChain, Desenvolvimento Blockchain para Web, Automação para Web, Web 
  Design, Front-end Development.</br> <div align="left">
  ✨ Eu só gosto de perfeição.</h4> <div align="left"> 
+ ✨ NAMORADA DO NICK.</h4> <div align="left"> 
 
  >**Carl Sagan: "Em algum lugar, alguma coisa incrível está esperando para ser descoberta.**
 >
