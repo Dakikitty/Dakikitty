@@ -27,8 +27,9 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW84cDJ5NHZnY25kZXJ5Z2Qxb
  ✨ Eu só gosto de perfeição.</h4> <div align="left"> 
  ✨ NAMORADA DO NICK.</h4> <div align="left"> 
 
- >**Carl Sagan: "Em algum lugar, alguma coisa incrível está esperando para ser descoberta.**
->
+
+
+ >**Carl Sagan: "Em algum lugar, alguma coisa incrível está esperando para ser descoberta.**>
 <!-- REDES SOCIAIS -->
 
 <a href="https://www.instagram.com/maimai.aiwe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
